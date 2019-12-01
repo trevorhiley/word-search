@@ -1,0 +1,22 @@
+{
+  "name": "word-search",
+  "version": "1.0.0",
+  "description": "A simple word search application",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trevorhiley/word-search.git"
+  },
+  "author": "Trevor Hiley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trevorhiley/word-search/issues"
+  },
+  "homepage": "https://github.com/trevorhiley/word-search#readme",
+  "devDependencies": {
+    "ava": "^2.4.0"
+  }
+}
